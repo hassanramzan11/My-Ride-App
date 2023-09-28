@@ -1,0 +1,36 @@
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H01\Homework_1\LocationLibrary\bin\Debug\net7.0\LocationLibrary.deps.json
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H01\Homework_1\LocationLibrary\bin\Debug\net7.0\LocationLibrary.dll
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H01\Homework_1\LocationLibrary\bin\Debug\net7.0\LocationLibrary.pdb
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H01\Homework_1\LocationLibrary\obj\Debug\net7.0\LocationLibrary.csproj.AssemblyReference.cache
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H01\Homework_1\LocationLibrary\obj\Debug\net7.0\LocationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H01\Homework_1\LocationLibrary\obj\Debug\net7.0\LocationLibrary.AssemblyInfoInputs.cache
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H01\Homework_1\LocationLibrary\obj\Debug\net7.0\LocationLibrary.AssemblyInfo.cs
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H01\Homework_1\LocationLibrary\obj\Debug\net7.0\LocationLibrary.csproj.CoreCompileInputs.cache
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H01\Homework_1\LocationLibrary\obj\Debug\net7.0\LocationLibrary.dll
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H01\Homework_1\LocationLibrary\obj\Debug\net7.0\refint\LocationLibrary.dll
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H01\Homework_1\LocationLibrary\obj\Debug\net7.0\LocationLibrary.pdb
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H01\Homework_1\LocationLibrary\obj\Debug\net7.0\ref\LocationLibrary.dll
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H02\My Ride App\LocationLibrary\bin\Debug\net7.0\LocationLibrary.deps.json
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H02\My Ride App\LocationLibrary\bin\Debug\net7.0\LocationLibrary.dll
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H02\My Ride App\LocationLibrary\bin\Debug\net7.0\LocationLibrary.pdb
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H02\My Ride App\LocationLibrary\obj\Debug\net7.0\LocationLibrary.csproj.AssemblyReference.cache
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H02\My Ride App\LocationLibrary\obj\Debug\net7.0\LocationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H02\My Ride App\LocationLibrary\obj\Debug\net7.0\LocationLibrary.AssemblyInfoInputs.cache
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H02\My Ride App\LocationLibrary\obj\Debug\net7.0\LocationLibrary.AssemblyInfo.cs
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H02\My Ride App\LocationLibrary\obj\Debug\net7.0\LocationLibrary.csproj.CoreCompileInputs.cache
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H02\My Ride App\LocationLibrary\obj\Debug\net7.0\LocationLibrary.dll
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H02\My Ride App\LocationLibrary\obj\Debug\net7.0\refint\LocationLibrary.dll
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H02\My Ride App\LocationLibrary\obj\Debug\net7.0\LocationLibrary.pdb
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H02\My Ride App\LocationLibrary\obj\Debug\net7.0\ref\LocationLibrary.dll
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H03\My Ride App\LocationLibrary\bin\Debug\net7.0\LocationLibrary.deps.json
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H03\My Ride App\LocationLibrary\bin\Debug\net7.0\LocationLibrary.dll
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H03\My Ride App\LocationLibrary\bin\Debug\net7.0\LocationLibrary.pdb
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H03\My Ride App\LocationLibrary\obj\Debug\net7.0\LocationLibrary.csproj.AssemblyReference.cache
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H03\My Ride App\LocationLibrary\obj\Debug\net7.0\LocationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H03\My Ride App\LocationLibrary\obj\Debug\net7.0\LocationLibrary.AssemblyInfoInputs.cache
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H03\My Ride App\LocationLibrary\obj\Debug\net7.0\LocationLibrary.AssemblyInfo.cs
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H03\My Ride App\LocationLibrary\obj\Debug\net7.0\LocationLibrary.csproj.CoreCompileInputs.cache
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H03\My Ride App\LocationLibrary\obj\Debug\net7.0\LocationLibrary.dll
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H03\My Ride App\LocationLibrary\obj\Debug\net7.0\refint\LocationLibrary.dll
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H03\My Ride App\LocationLibrary\obj\Debug\net7.0\LocationLibrary.pdb
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H03\My Ride App\LocationLibrary\obj\Debug\net7.0\ref\LocationLibrary.dll

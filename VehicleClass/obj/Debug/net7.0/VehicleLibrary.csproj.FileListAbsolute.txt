@@ -1,0 +1,36 @@
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H01\Homework_1\VehicleClass\bin\Debug\net7.0\VehicleLibrary.deps.json
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H01\Homework_1\VehicleClass\bin\Debug\net7.0\VehicleLibrary.dll
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H01\Homework_1\VehicleClass\bin\Debug\net7.0\VehicleLibrary.pdb
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H01\Homework_1\VehicleClass\obj\Debug\net7.0\VehicleLibrary.csproj.AssemblyReference.cache
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H01\Homework_1\VehicleClass\obj\Debug\net7.0\VehicleLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H01\Homework_1\VehicleClass\obj\Debug\net7.0\VehicleLibrary.AssemblyInfoInputs.cache
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H01\Homework_1\VehicleClass\obj\Debug\net7.0\VehicleLibrary.AssemblyInfo.cs
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H01\Homework_1\VehicleClass\obj\Debug\net7.0\VehicleLibrary.csproj.CoreCompileInputs.cache
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H01\Homework_1\VehicleClass\obj\Debug\net7.0\VehicleLibrary.dll
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H01\Homework_1\VehicleClass\obj\Debug\net7.0\refint\VehicleLibrary.dll
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H01\Homework_1\VehicleClass\obj\Debug\net7.0\VehicleLibrary.pdb
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H01\Homework_1\VehicleClass\obj\Debug\net7.0\ref\VehicleLibrary.dll
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H02\My Ride App\VehicleClass\bin\Debug\net7.0\VehicleLibrary.deps.json
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H02\My Ride App\VehicleClass\bin\Debug\net7.0\VehicleLibrary.dll
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H02\My Ride App\VehicleClass\bin\Debug\net7.0\VehicleLibrary.pdb
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H02\My Ride App\VehicleClass\obj\Debug\net7.0\VehicleLibrary.csproj.AssemblyReference.cache
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H02\My Ride App\VehicleClass\obj\Debug\net7.0\VehicleLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H02\My Ride App\VehicleClass\obj\Debug\net7.0\VehicleLibrary.AssemblyInfoInputs.cache
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H02\My Ride App\VehicleClass\obj\Debug\net7.0\VehicleLibrary.AssemblyInfo.cs
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H02\My Ride App\VehicleClass\obj\Debug\net7.0\VehicleLibrary.csproj.CoreCompileInputs.cache
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H02\My Ride App\VehicleClass\obj\Debug\net7.0\VehicleLibrary.dll
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H02\My Ride App\VehicleClass\obj\Debug\net7.0\refint\VehicleLibrary.dll
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H02\My Ride App\VehicleClass\obj\Debug\net7.0\VehicleLibrary.pdb
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H02\My Ride App\VehicleClass\obj\Debug\net7.0\ref\VehicleLibrary.dll
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H03\My Ride App\VehicleClass\bin\Debug\net7.0\VehicleLibrary.deps.json
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H03\My Ride App\VehicleClass\bin\Debug\net7.0\VehicleLibrary.dll
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H03\My Ride App\VehicleClass\bin\Debug\net7.0\VehicleLibrary.pdb
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H03\My Ride App\VehicleClass\obj\Debug\net7.0\VehicleLibrary.csproj.AssemblyReference.cache
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H03\My Ride App\VehicleClass\obj\Debug\net7.0\VehicleLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H03\My Ride App\VehicleClass\obj\Debug\net7.0\VehicleLibrary.AssemblyInfoInputs.cache
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H03\My Ride App\VehicleClass\obj\Debug\net7.0\VehicleLibrary.AssemblyInfo.cs
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H03\My Ride App\VehicleClass\obj\Debug\net7.0\VehicleLibrary.csproj.CoreCompileInputs.cache
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H03\My Ride App\VehicleClass\obj\Debug\net7.0\VehicleLibrary.dll
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H03\My Ride App\VehicleClass\obj\Debug\net7.0\refint\VehicleLibrary.dll
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H03\My Ride App\VehicleClass\obj\Debug\net7.0\VehicleLibrary.pdb
+E:\6 Semester\Web Engineering\HomeWork\BCSF20M049_H03\My Ride App\VehicleClass\obj\Debug\net7.0\ref\VehicleLibrary.dll

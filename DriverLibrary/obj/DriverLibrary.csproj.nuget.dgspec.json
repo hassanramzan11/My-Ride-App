@@ -1,0 +1,198 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\6 Semester\\Web Engineering\\HomeWork\\BCSF20M049_H03\\My Ride App\\DriverLibrary\\DriverLibrary.csproj": {}
+  },
+  "projects": {
+    "E:\\6 Semester\\Web Engineering\\HomeWork\\BCSF20M049_H03\\My Ride App\\DriverLibrary\\DriverLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\6 Semester\\Web Engineering\\HomeWork\\BCSF20M049_H03\\My Ride App\\DriverLibrary\\DriverLibrary.csproj",
+        "projectName": "DriverLibrary",
+        "projectPath": "E:\\6 Semester\\Web Engineering\\HomeWork\\BCSF20M049_H03\\My Ride App\\DriverLibrary\\DriverLibrary.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "E:\\6 Semester\\Web Engineering\\HomeWork\\BCSF20M049_H03\\My Ride App\\DriverLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\6 Semester\\Web Engineering\\HomeWork\\BCSF20M049_H03\\My Ride App\\LocationLibrary\\LocationLibrary.csproj": {
+                "projectPath": "E:\\6 Semester\\Web Engineering\\HomeWork\\BCSF20M049_H03\\My Ride App\\LocationLibrary\\LocationLibrary.csproj"
+              },
+              "E:\\6 Semester\\Web Engineering\\HomeWork\\BCSF20M049_H03\\My Ride App\\VehicleClass\\VehicleLibrary.csproj": {
+                "projectPath": "E:\\6 Semester\\Web Engineering\\HomeWork\\BCSF20M049_H03\\My Ride App\\VehicleClass\\VehicleLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\6 Semester\\Web Engineering\\HomeWork\\BCSF20M049_H03\\My Ride App\\LocationLibrary\\LocationLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\6 Semester\\Web Engineering\\HomeWork\\BCSF20M049_H03\\My Ride App\\LocationLibrary\\LocationLibrary.csproj",
+        "projectName": "LocationLibrary",
+        "projectPath": "E:\\6 Semester\\Web Engineering\\HomeWork\\BCSF20M049_H03\\My Ride App\\LocationLibrary\\LocationLibrary.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "E:\\6 Semester\\Web Engineering\\HomeWork\\BCSF20M049_H03\\My Ride App\\LocationLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\6 Semester\\Web Engineering\\HomeWork\\BCSF20M049_H03\\My Ride App\\VehicleClass\\VehicleLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\6 Semester\\Web Engineering\\HomeWork\\BCSF20M049_H03\\My Ride App\\VehicleClass\\VehicleLibrary.csproj",
+        "projectName": "VehicleLibrary",
+        "projectPath": "E:\\6 Semester\\Web Engineering\\HomeWork\\BCSF20M049_H03\\My Ride App\\VehicleClass\\VehicleLibrary.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "E:\\6 Semester\\Web Engineering\\HomeWork\\BCSF20M049_H03\\My Ride App\\VehicleClass\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
